@@ -1,60 +1,64 @@
+<div align="center">
+<img src="https://placehold.co/800x200/2b2b2b/ffffff?text=Hello+and+Welcome!" alt="Dynamic Header Placeholder">
+<h1 align="center">Hi there! I'm Pratik Chalise 👋</h1>
+<p align="center">
+<strong>14-year-old | Class 9 Student | Enthusiastic Programmer from Adarshanagar, Nepal 🇳🇵</strong>
+</p>
+</div>
 
-<h1 align="center">Hey there! I'm Pratik Chalise</h1>
-<p align="center"><strong>14-year-old | Class 9 Student | Beginner Programmer from Adarshanagar, Nepal 🇳🇵</strong></p>
+🧠 About Me
+I'm an enthusiastic student with a growing passion for programming and development. I enjoy learning how code works and building fun projects to experiment with new technologies. My current focus is on mastering the fundamentals of C, HTML, and CSS, and I'm eager to dive into backend development, Python, and contributing to open-source projects in the future.
 
----
+🚀 My Toolkit & Future Goals
+This section uses shield badges for a more polished look. You can find more badges at shields.io.
 
-### 🧠 About Me
+<div align="center">
+<p><strong>Languages I'm Learning:</strong></p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+</div>
 
-I'm an enthusiastic student with a growing interest in programming and development.  
-I enjoy learning how code works behind the scenes and experimenting with real projects.  
-Currently focused on mastering **C**, **HTML**, and **CSS**, with a goal to explore backend development, Python, and open-source in the future.
+<br/>
 
----
+<div align="center">
+<p><strong>My Future Roadmap:</strong></p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-333333?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Badge"/>
+</div>
 
-### 🚀 Skills
+📈 GitHub Stats
+You can get the URLs for these from the provided links. Just remember to replace your-username-here with your actual GitHub username!
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
-  </tr>
-</table>
+<div align="center">
+<a href="https://github.com/your-username-here">
+<img src="https://github-readme-stats.vercel.app/api?username=your-username-here&theme=tokyonight&hide_border=true&show_icons=true" alt="Pratik's GitHub Stats"/>
+</a>
+<a href="https://github.com/your-username-here">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username-here&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak"/>
+</a>
+<a href="https://github.com/your-username-here">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username-here&theme=tokyonight&hide_border=true&layout=compact" alt="Pratik's Top Languages"/>
+</a>
+</div>
 
----
+🔗 Connect with Me
+You can add any social media links here. The shields are a modern alternative to the images your friend used.
 
-### 📈 GitHub Stats
+<div align="center">
+<a href="your-instagram-link-here" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+<a href="your-linkedin-link-here" target="_blank">
+<img src="https://img.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="your-twitter-link-here" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+</a>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratiksuii7&show_icons=true&theme=radical" alt="Pratik's GitHub Stats" />
+⭐️ Don't forget to follow me to stay updated on my journey!
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksuii7&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratiksuii7&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/pratiksuii7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-pratiksuii7-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-⭐️ Don't forget to follow me for beginner-friendly projects and fun code ideas!
