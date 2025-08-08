@@ -8,18 +8,17 @@
 
 🧠 About Me
 I'm an enthusiastic student with a growing passion for programming and development. I enjoy learning how code works and building fun projects to experiment with new technologies. My current focus is on mastering the fundamentals of C, HTML, and CSS, and I'm eager to dive into backend development, Python, and contributing to open-source projects in the future.
+<br>
 
 🚀 My Toolkit & Future Goals
-This section uses shield badges for a more polished look. You can find more badges at shields.io.
-
 <div>
 <p><strong>Languages I have learned:</strong></p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/> <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> <br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> <br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> 
 </div>
 
-<br/>
+<br>
 
 <div>
 <p><strong>My Future Roadmap:</strong></p>
@@ -50,9 +49,9 @@ This section uses shield badges for a more polished look. You can find more badg
   <a href="https://pratikchalise.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit-pratikchalise.netlify.app-blue?style=for-the-badge&logo"/>
   </a>
-</p>
+</p> <br>
 🔗 Connect with Me
-
+<br>
 <div>
 <a href="https://www.instagram.com/pratik_1_7_suiiii/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
