@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pratik Chalise 👋</h1>
-<img src="./coding gif.gif" />
+<img src="./coding gif.gif" width="100vw"/>
 <p align="center">
 <strong>14-year-old | Grade 9 Student | Enthusiastic Coder | Loves to learn new skills</strong>
 </p>
