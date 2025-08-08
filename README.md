@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://placehold.co/800x200/2b2b2b/ffffff?text=Hello+and+Welcome!" alt="Dynamic Header Placeholder">
-<h1 align="center">Hi there! I'm Pratik Chalise 👋</h1>
+
+
+<h1 align="center">Hi there, I'm Pratik Chalise 👋</h1>
 <p align="center">
 <strong>14-year-old | Class 9 Student | Enthusiastic Programmer from Adarshanagar, Nepal 🇳🇵</strong>
 </p>
@@ -13,7 +13,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 This section uses shield badges for a more polished look. You can find more badges at shields.io.
 
 <div align="center">
-<p><strong>Languages I'm Learning:</strong></p>
+<p><strong>Languages I have learned:</strong></p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
@@ -23,25 +23,25 @@ This section uses shield badges for a more polished look. You can find more badg
 
 <div align="center">
 <p><strong>My Future Roadmap:</strong></p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-333333?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-badge"/>
+
 </div>
 
 📈 GitHub Stats
-You can get the URLs for these from the provided links.
 
 <div align="center">
 <a href="https://github.com/Pratiksuii7">
 <img src="https://github-readme-stats.vercel.app/api?username=Pratiksuii7&theme=tokyonight&hide_border=true&show_icons=true" alt="Pratik's GitHub Stats"/>
-</a>
+</a> <br>
 <a href="https://github.com/Pratiksuii7">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Pratiksuii7&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak"/>
-</a>
+</a> <br>
 <a href="https://github.com/Pratiksuii7">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksuii7&theme=tokyonight&hide_border=true&layout=compact" alt="Pratik's Top Languages"/>
-</a>
+</a> <br>
 </div>
 
 ### 🌐 My Portfolio Website 
