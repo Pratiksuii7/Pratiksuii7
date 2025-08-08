@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Pratik Chalise 👋</h1>
 <p align="center">
-<strong>14-year-old | Class 9 Student | Enthusiastic Programmer from Adarshanagar, Nepal 🇳🇵</strong>
+<strong>14-year-old | Grade 9 Student | Enthusiastic Coder | Loves to learn new skills</strong>
 </p>
 </div>
 
