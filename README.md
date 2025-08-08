@@ -37,7 +37,7 @@ You can get the URLs for these from the provided links.
 <img src="https://github-readme-stats.vercel.app/api?username=Pratiksuii7&theme=tokyonight&hide_border=true&show_icons=true" alt="Pratik's GitHub Stats"/>
 </a>
 <a href="https://github.com/Pratiksuii7">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksuii7&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Pratiksuii7&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak"/>
 </a>
 <a href="https://github.com/Pratiksuii7">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksuii7&theme=tokyonight&hide_border=true&layout=compact" alt="Pratik's Top Languages"/>
