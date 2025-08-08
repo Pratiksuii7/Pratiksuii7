@@ -42,17 +42,7 @@ Currently focused on mastering **C**, **HTML**, and **CSS**, with a goal to expl
 
 ---
 
-### 🌟 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Basic Calculator** | Simple calculator using C | C |
-| **Student Grade Tracker** | Calculates grades from input | C |
-| **Portfolio Website** | Personal profile site | HTML & CSS |
-| **Facebook Clone Page** | Clone of login UI | HTML & CSS |
-| **Personal Diary App** | CLI diary using C | C |
-
----
 
 ### 🔗 Connect with Me
 
