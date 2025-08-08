@@ -12,16 +12,16 @@ I'm an enthusiastic student with a growing passion for programming and developme
 🚀 My Toolkit & Future Goals
 This section uses shield badges for a more polished look. You can find more badges at shields.io.
 
-<div align="center">
+<div>
 <p><strong>Languages I have learned:</strong></p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/> <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> <br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> <br>
 </div>
 
 <br/>
 
-<div align="center">
+<div>
 <p><strong>My Future Roadmap:</strong></p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
@@ -32,7 +32,7 @@ This section uses shield badges for a more polished look. You can find more badg
 
 📈 GitHub Stats
 
-<div align="center">
+<div>
 <a href="https://github.com/Pratiksuii7">
 <img src="https://github-readme-stats.vercel.app/api?username=Pratiksuii7&theme=tokyonight&hide_border=true&show_icons=true" alt="Pratik's GitHub Stats"/>
 </a> <br>
@@ -53,7 +53,7 @@ This section uses shield badges for a more polished look. You can find more badg
 </p>
 🔗 Connect with Me
 
-<div align="center">
+<div>
 <a href="https://www.instagram.com/pratik_1_7_suiiii/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
