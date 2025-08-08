@@ -30,17 +30,17 @@ This section uses shield badges for a more polished look. You can find more badg
 </div>
 
 📈 GitHub Stats
-You can get the URLs for these from the provided links. Just remember to replace your-username-here with your actual GitHub username!
+You can get the URLs for these from the provided links.
 
 <div align="center">
-<a href="https://github.com/your-username-here">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username-here&theme=tokyonight&hide_border=true&show_icons=true" alt="Pratik's GitHub Stats"/>
+<a href="https://github.com/Pratiksuii7">
+<img src="https://github-readme-stats.vercel.app/api?username=Pratiksuii7&theme=tokyonight&hide_border=true&show_icons=true" alt="Pratik's GitHub Stats"/>
 </a>
-<a href="https://github.com/your-username-here">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username-here&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak"/>
+<a href="https://github.com/Pratiksuii7">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksuii7&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak"/>
 </a>
-<a href="https://github.com/your-username-here">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username-here&theme=tokyonight&hide_border=true&layout=compact" alt="Pratik's Top Languages"/>
+<a href="https://github.com/Pratiksuii7">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksuii7&theme=tokyonight&hide_border=true&layout=compact" alt="Pratik's Top Languages"/>
 </a>
 </div>
 
@@ -52,13 +52,10 @@ You can add any social media links here. The shields are a modern alternative to
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 <a href="your-linkedin-link-here" target="_blank">
-<img src="https://img.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="your-twitter-link-here" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
 </a>
 </div>
 
-<p align="center">
-⭐️ Don't forget to follow me to stay updated on my journey!
-</p>
