@@ -50,7 +50,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
     <img src="https://img.shields.io/badge/Visit-pratikchalise.netlify.app-blue?style=for-the-badge&logo"/>
   </a>
 </p> <br>
-🔗 Connect with Me
+🔗 Connect with Me 
 <br>
 <div>
 <a href="https://www.instagram.com/pratik_1_7_suiiii/" target="_blank">
