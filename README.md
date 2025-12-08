@@ -46,7 +46,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 ### 🌐 My Portfolio Website 
 
 <p >
-  <a href="https://pratikchalise.netlify.app" target="_blank">
+  <a href="https://pratikchalise.hcbutwal.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-pratikchalise.netlify.app-blue?style=for-the-badge&logo"/>
   </a>
 </p> <br>
