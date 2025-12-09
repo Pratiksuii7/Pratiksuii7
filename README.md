@@ -23,7 +23,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <p><strong>My Future Roadmap:</strong></p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-badge"/>
 
 </div>
@@ -45,7 +45,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 ### 🌐 My Portfolio Website 
 
-<p >
+<p>
   <a href="https://pratikchalise.hcbutwal.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit-pratikchalise.netlify.app-blue?style=for-the-badge&logo"/>
   </a>
