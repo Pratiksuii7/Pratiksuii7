@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pratik Chalise 👋</h1>
 <img src="./coding.gif" width="100vw"/>
 <p align="center">
-<strong>14-year-old | Grade 9 Student | Enthusiastic Coder | Loves to learn new skills</strong>
+<strong>14-year-old | Grade 9 Student | Enthusiastic Coder | Loves to learn new skills</strong> 
 </p>
 </div> 
 
@@ -40,7 +40,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 </a> <br>
 <a href="https://github.com/Pratiksuii7">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksuii7&theme=tokyonight&hide_border=true&layout=compact" alt="Pratik's Top Languages"/>
-</a> <br>
+</a> <br> 
 </div>
 
 ### 🌐 My Portfolio Website 
