@@ -2,7 +2,7 @@
 <img src="./coding.gif" width="100vw"/> 
 <p align="center">
 <strong>14-year-old | Grade 9 Student | Enthusiastic Coder | Loves to learn new skills</strong>  
-</p>
+</p> 
 </div> 
 
  About Me
