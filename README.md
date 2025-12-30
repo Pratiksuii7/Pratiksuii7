@@ -46,7 +46,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <a href="https://github.com/Pratiksuii7">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksuii7&theme=tokyonight&hide_border=true&layout=compact" alt="Pratik's Top Languages"/>
 </a> <br> 
-</div>
+</div> 
 
 ### 🌐 My Portfolio Website 
 
