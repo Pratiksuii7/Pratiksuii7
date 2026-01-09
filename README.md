@@ -10,7 +10,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <br> 
 
  My Toolkit & Future Goals 
-<div>
+<div> 
 <p><strong>Languages I have learned:</strong></p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> 
