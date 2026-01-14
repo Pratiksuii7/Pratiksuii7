@@ -47,24 +47,24 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksuii7&theme=dark"/>
 
-<br><br>
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratiksuii7&theme=dark"/>
 
-<br><br>
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratiksuii7&theme=dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratiksuii7&theme=dark"/>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiksuii7&theme=github-dark&hide_border=true"/>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksuii7&theme=github-dark&hide_border=true"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=flat-square&color=blue"/>
 <img src="https://img.shields.io/github/followers/Pratiksuii7?style=flat-square"/>
