@@ -2,9 +2,6 @@
 
 <img src="./coding.gif" width="800"/>
 
-<p>
-  <strong>14-year-old | Grade 9 Student | Enthusiastic Coder | Loves to learn new skills</strong>
-</p>
 
 <hr>
 
