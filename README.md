@@ -1,6 +1,6 @@
 <h1 align="center"><img align=center src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="20px"> Hi there, I'm Pratik Chalise</h1>
 
-<img src="./coding.gif" width="260"/>
+<img src="./coding.gif" width="800"/>
 
 <p>
   <strong>14-year-old | Grade 9 Student | Enthusiastic Coder | Loves to learn new skills</strong>
@@ -74,10 +74,19 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksuii7&theme=github-dark&hide_border=true"/>
 
 <br>
-<img src="https://img.shields.io/github/followers/Pratiksuii7?style=flat-square&color=555"/>
-<img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=flat-square&color=555"/>
-<img src="https://img.shields.io/github/stars/Pratiksuii7?style=flat-square&color=555"/>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/github/followers/Pratiksuii7?style=flat-square"/>
+    </td>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=flat-square&color=blue"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/Pratiksuii7?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
