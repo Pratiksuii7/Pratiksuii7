@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pratik Chalise</h1>
+<h1 align="center"><img align=center src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="20px"> Hi there, I'm Pratik Chalise</h1>
 
 <img src="./coding.gif" width="260"/>
 
@@ -53,8 +53,17 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratiksuii7&theme=dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratiksuii7&theme=dark"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratiksuii7&theme=dark"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratiksuii7&theme=dark"/>
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
