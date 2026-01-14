@@ -49,52 +49,25 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratiksuii7&theme=dark"/>
-
-<br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratiksuii7&theme=dark"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratiksuii7&theme=dark"/>
-    </td>
-  </tr>
-</table>
-
-
-<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiksuii7&theme=github-dark&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksuii7&theme=github-dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratiksuii7&theme=dark"/>
 
 <br>
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/github/followers/Pratiksuii7?style=flat-square"/>
-    </td>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=flat-square&color=blue"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/stars/Pratiksuii7?style=flat-square"/>
-    </td>
-  </tr>
-</table>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksuii7&theme=github-dark&hide_border=true"/>
+
+<
 <hr>
 
 <h2>My Portfolio Website</h2>
 
 <p>
-  <a href="https://pratikchalise.hcbutwal.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-pratikchalise.netlify.app-blue?style=for-the-badge"/>
+  <a href="https://pratikchalise.me" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-pratikchalise.me-blue?style=for-the-badge"/>
   </a>
 </p>
 
