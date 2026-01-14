@@ -74,10 +74,10 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksuii7&theme=github-dark&hide_border=true"/>
 
 <br>
+<img src="https://img.shields.io/github/followers/Pratiksuii7?style=flat-square&color=555"/>
+<img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=flat-square&color=555"/>
+<img src="https://img.shields.io/github/stars/Pratiksuii7?style=flat-square&color=555"/>
 
-<img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=flat-square&color=blue"/>
-<img src="https://img.shields.io/github/followers/Pratiksuii7?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/Pratiksuii7?style=flat-square"/>
 
 <hr>
 
