@@ -44,36 +44,48 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <hr>
 
 <h2>GitHub Stats</h2>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksuii7&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratiksuii7&theme=tokyonight"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksuii7&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratiksuii7&theme=tokyonight"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratiksuii7&theme=github_dark"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratiksuii7&theme=github_dark"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratiksuii7&theme=github_dark"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratiksuii7&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratiksuii7&theme=tokyonight"/>
+<br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratiksuii7&theme=tokyonight"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiksuii7&theme=github-dark&hide_border=true"/>
 
 <br><br>
 
-<a href="https://github.com/Pratiksuii7">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pratiksuii7&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Pratiksuii7&theme=github-dark&hide_border=true"/>
 
 <br><br>
 
-<br><br>
-
-<a href="https://github.com/Pratiksuii7">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksuii7&theme=tokyonight"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=flat-square&color=blue"/>
 
 <hr>
+
 
 <h2>My Portfolio Website</h2>
 
