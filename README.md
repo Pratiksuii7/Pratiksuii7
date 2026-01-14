@@ -1,16 +1,14 @@
-<h1 align="center">Hi there, I'm Pratik Chalise 👋</h1>
+<h1 align="center">Hi there, I'm Pratik Chalise</h1>
 
-<p align="center">
-  <img src="./coding.gif" width="120"/>
-</p>
+<img src="./coding.gif" width="220"/>
 
-<p align="center">
+<p>
   <strong>14-year-old | Grade 9 Student | Enthusiastic Coder | Loves to learn new skills</strong>
 </p>
 
 <hr>
 
-<h2>🚀 About Me</h2>
+<h2>About Me</h2>
 
 <p>
 I'm an enthusiastic student with a growing passion for programming and development. I enjoy learning how code works and building fun projects to experiment with new technologies. My current focus is on mastering the fundamentals of C, HTML, and CSS, and I'm eager to dive into backend development, Python, and contributing to open-source projects in the future.
@@ -18,9 +16,9 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <hr>
 
-<h2>🧰 My Toolkit & Future Goals</h2>
+<h2>My Toolkit & Future Goals</h2>
 
-<h3>💻 Languages I have learned:</h3>
+<h3>Languages I have learned:</h3>
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -31,7 +29,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <br>
 
-<h3>🛤️ My Future Roadmap:</h3>
+<h3>My Future Roadmap:</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -45,40 +43,37 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
-<p align="center">
-  <a href="https://github.com/Pratiksuii7">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pratiksuii7&theme=tokyonight&hide_border=true&show_icons=true"/>
-  </a>
-</p>
+<a href="https://github.com/Pratiksuii7">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratiksuii7&theme=tokyonight&hide_border=true&show_icons=true"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/Pratiksuii7">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Pratiksuii7&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+<br><br>
 
-<p align="center">
-  <a href="https://github.com/Pratiksuii7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksuii7&theme=tokyonight&hide_border=true&layout=compact"/>
-  </a>
-</p>
+<a href="https://github.com/Pratiksuii7">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pratiksuii7&theme=tokyonight&hide_border=true"/>
+</a>
 
-<!-- EXTRA STATS -->
-<p align="center">
-  <a href="https://github.com/Pratiksuii7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksuii7&theme=tokyonight"/>
-  </a>
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=for-the-badge&color=blue"/>
-</p>
+<a href="https://github.com/Pratiksuii7">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksuii7&theme=tokyonight&hide_border=true&layout=compact"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Pratiksuii7">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksuii7&theme=tokyonight"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=for-the-badge&color=blue"/>
 
 <hr>
 
-<h2>🌐 My Portfolio Website</h2>
+<h2>My Portfolio Website</h2>
 
 <p>
   <a href="https://pratikchalise.hcbutwal.com" target="_blank">
@@ -88,7 +83,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <hr>
 
-<h2>🔗 Connect with Me</h2>
+<h2>Connect with Me</h2>
 
 <p>
   <a href="https://www.instagram.com/pratik_1_7_suiiii/" target="_blank">
