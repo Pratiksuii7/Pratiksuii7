@@ -21,10 +21,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <h3>Languages I have learned:</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,c"/>
 </p>
 
 <br>
@@ -32,13 +29,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <h3>My Future Roadmap:</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src ="https://skillicons.dev/icons?i=nodejs,expressjs,cpp,mongodb,php"/>
 </p>
 
 <hr>
@@ -60,7 +51,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksuii7&theme=github-dark&hide_border=true"/>
 
-<
+
 <hr>
 
 <h2>My Portfolio Website</h2>
