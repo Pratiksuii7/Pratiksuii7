@@ -44,10 +44,16 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <hr>
 
 <h2>GitHub Stats</h2>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksuii7&theme=tokyonight"/>
 
-<a href="https://github.com/Pratiksuii7">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratiksuii7&theme=tokyonight&hide_border=true&show_icons=true"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratiksuii7&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratiksuii7&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratiksuii7&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratiksuii7&theme=tokyonight"/>
+
 
 <br><br>
 
@@ -56,10 +62,6 @@ I'm an enthusiastic student with a growing passion for programming and developme
 </a>
 
 <br><br>
-
-<a href="https://github.com/Pratiksuii7">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksuii7&theme=tokyonight&hide_border=true&layout=compact"/>
-</a>
 
 <br><br>
 
