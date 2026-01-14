@@ -1,74 +1,103 @@
-<h1 align="center">Hi there, I'm Pratik Chalise 👋</h1> 
-<img src="./coding.gif" width="100vw"/>     
-<p align="center"> 
-<strong>14-year-old | Grade 9 Student | Enthusiastic Coder | Loves to learn new skills</strong>    
-</p> 
-</div>     
- 
- About Me 
+<h1 align="center">Hi there, I'm Pratik Chalise 👋</h1>
+
+<p align="center">
+  <img src="./coding.gif" width="120"/>
+</p>
+
+<p align="center">
+  <strong>14-year-old | Grade 9 Student | Enthusiastic Coder | Loves to learn new skills</strong>
+</p>
+
+<hr>
+
+<h2>🚀 About Me</h2>
+
+<p>
 I'm an enthusiastic student with a growing passion for programming and development. I enjoy learning how code works and building fun projects to experiment with new technologies. My current focus is on mastering the fundamentals of C, HTML, and CSS, and I'm eager to dive into backend development, Python, and contributing to open-source projects in the future.
-<br> 
+</p>
 
- My Toolkit & Future Goals 
-<div> 
-<p><strong>Languages I have learned:</strong></p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/> 
-</div>
- 
-<br>
-  
-<div>
-<p><strong>My Future Roadmap:</strong></p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-badge"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
- 
+<hr>
 
-</div>
+<h2>🧰 My Toolkit & Future Goals</h2>
+
+<h3>💻 Languages I have learned:</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
 <br>
 
- GitHub Stats
+<h3>🛤️ My Future Roadmap:</h3>
 
-<div>
-<a href="https://github.com/Pratiksuii7">
-<img src="https://github-readme-stats.vercel.app/api?username=Pratiksuii7&theme=tokyonight&hide_border=true&show_icons=true" alt="Pratik's GitHub Stats"/>
-</a> <br> 
-<a href="https://github.com/Pratiksuii7">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Pratiksuii7&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak"/>
-</a> <br>
-<a href="https://github.com/Pratiksuii7">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksuii7&theme=tokyonight&hide_border=true&layout=compact" alt="Pratik's Top Languages"/>
-</a> <br> 
-</div> 
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-### 🌐 My Portfolio Website 
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/Pratiksuii7">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pratiksuii7&theme=tokyonight&hide_border=true&show_icons=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pratiksuii7">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Pratiksuii7&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pratiksuii7">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksuii7&theme=tokyonight&hide_border=true&layout=compact"/>
+  </a>
+</p>
+
+<!-- EXTRA STATS -->
+<p align="center">
+  <a href="https://github.com/Pratiksuii7">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksuii7&theme=tokyonight"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pratiksuii7&style=for-the-badge&color=blue"/>
+</p>
+
+<hr>
+
+<h2>🌐 My Portfolio Website</h2>
 
 <p>
   <a href="https://pratikchalise.hcbutwal.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-pratikchalise.netlify.app-blue?style=for-the-badge&logo"/>
+    <img src="https://img.shields.io/badge/Visit-pratikchalise.netlify.app-blue?style=for-the-badge"/>
   </a>
-</p> <br>
-🔗 Connect with Me 
-<br>
-<div>
-<a href="https://www.instagram.com/pratik_1_7_suiiii/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/pratik-chalise-3b35a3371/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://www.facebook.com/pratik.chalise.2025" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-</a>
-</div>
+</p>
 
+<hr>
 
+<h2>🔗 Connect with Me</h2>
 
-
+<p>
+  <a href="https://www.instagram.com/pratik_1_7_suiiii/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pratik-chalise-3b35a3371/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/pratik.chalise.2025" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
