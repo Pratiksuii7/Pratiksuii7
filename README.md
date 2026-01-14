@@ -39,7 +39,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <div>
 <a href="https://github.com/Pratiksuii7">
 <img src="https://github-readme-stats.vercel.app/api?username=Pratiksuii7&theme=tokyonight&hide_border=true&show_icons=true" alt="Pratik's GitHub Stats"/>
-</a> <br>
+</a> <br> 
 <a href="https://github.com/Pratiksuii7">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Pratiksuii7&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak"/>
 </a> <br>
