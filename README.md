@@ -23,7 +23,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <h3>Technologies I have used:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=git,vercel,github,bash,linux,vscode,ubuntu"/>
 </p>
 
 <h3>My Future Roadmap:</h3>
