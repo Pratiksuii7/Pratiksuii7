@@ -26,7 +26,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
   <img src="https://skillicons.dev/icons?i=git,vercel,github,bash,linux,vscode,ubuntu"/>
 </p>
 
-<h3>My Future Roadmap:</h3>
+<h3>My Future Roadmap:</h3> 
 
 <p>
   <img src ="https://skillicons.dev/icons?i=nodejs,expressjs,cpp,mongodb,php"/>
