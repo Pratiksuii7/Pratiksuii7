@@ -1,5 +1,5 @@
 <h1 align="center"><img align=center src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="20px"> Hi there, I'm Pratik Chalise</h1>
-
+ 
 <img src="./coding.gif" width="800"/>  
 
  
