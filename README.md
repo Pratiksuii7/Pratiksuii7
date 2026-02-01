@@ -6,7 +6,7 @@
 <hr> 
 
 <h2>About Me</h2> 
-
+ 
 <p>  
 I'm an enthusiastic student with a growing passion for programming and development. I enjoy learning how code works and building fun projects to experiment with new technologies. My current focus is on mastering the fundamentals of C, HTML, and CSS, and I'm eager to dive into backend development, Python, and contributing to open-source projects in the future. 
 </p> 
