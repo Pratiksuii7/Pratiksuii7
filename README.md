@@ -20,7 +20,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,c,tailwind"/>
 </p>
-
+ 
 <h3>Technologies I have used:</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,vercel,github,bash,linux,vscode,ubuntu"/>
