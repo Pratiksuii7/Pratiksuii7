@@ -36,16 +36,16 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <h2>GitHub Stats</h2>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksuii7&theme=dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikchalise&theme=dark"/>
 
 <br>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiksuii7&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikchalise&theme=github-dark&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksuii7&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikchalise&theme=github-dark&hide_border=true"/>
 
 
 <hr>
