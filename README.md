@@ -45,7 +45,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikchalise&theme=github-dark&hide_border=true"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikchalise&theme=github-dark&hide_border=true"/> -->
 
 
 <hr>
