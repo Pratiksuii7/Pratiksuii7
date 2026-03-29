@@ -3,7 +3,7 @@
 <img src="./coding.gif" width="800"/>  
     
 <hr>        
-    
+
 <h2>About Me</h2> 
   
 <p>       
