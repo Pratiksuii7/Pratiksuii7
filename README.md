@@ -59,7 +59,7 @@ I'm an enthusiastic student with a growing passion for programming and developme
 <hr>
 
 <h2>Connect with Me</h2>
-
+ 
 <p>
   <a href="https://www.instagram.com/pratik__chalise/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
